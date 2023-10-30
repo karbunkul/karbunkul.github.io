@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.rosa.sdvor.app",
-    "sha256_cert_fingerprints":
-    ["EA:0B:CE:AA:6E:53:32:8C:5D:17:9B:AD:65:47:A6:23:64:2E:C8:1D:A5:99:57:33:CF:10:27:75:70:58:FE:1"]
-  }
-}]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.rosa.sdvor.app",
+            "sha256_cert_fingerprints": [
+                "EA:0B:CE:AA:6E:53:32:8C:5D:17:9B:AD:65:47:A6:23:64:2E:C8:1D:A5:99:57:33:CF:10:27:75:70:58:FE:1"
+            ]
+        }
+    }
+]
